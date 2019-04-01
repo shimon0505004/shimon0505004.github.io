@@ -1,2 +1,4 @@
 name:  Shaikh Shawon Arefin Shimon
 theme: kramdown
+kramdown:  
+  parse_block_html: true
